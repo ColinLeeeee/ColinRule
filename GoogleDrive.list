@@ -4,7 +4,10 @@ DOMAIN-SUFFIX,client-channel.google.com
 
 #Upload
 DOMAIN-SUFFIX,clients6.google.com
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN,www.googleapis.com
 #Download
 DOMAIN-SUFFIX,googleusercontent.com
+
+#GooglePhoto
+DOMAIN,photos.googleapis.com
 
