@@ -1,0 +1,10 @@
+# GoogleDrive
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,client-channel.google.com
+
+#Upload
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,googleapis.com
+#Download
+DOMAIN-SUFFIX,googleusercontent.com
+
