@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,client-channel.google.com
 
+DOMAIN-SUFFIX,appsitemsuggest-pa.googleapis.com
+DOMAIN-SUFFIX,blobcomments-pa.googleapis.com
+
 #Upload
 DOMAIN-SUFFIX,clients6.google.com
 DOMAIN,www.googleapis.com
